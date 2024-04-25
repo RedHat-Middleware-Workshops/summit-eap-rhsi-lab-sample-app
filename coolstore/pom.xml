@@ -92,6 +92,9 @@
             <layout>default</layout>
         </repository>
     </repositories>
+
+<!-- TODO: Add plugin repositories here -->
+
     <dependencyManagement>
 
         <dependencies>
